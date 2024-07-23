@@ -1,0 +1,32 @@
+<style>
+    table, tr, td, th {
+        border: 1px solid black;
+    }
+</style>
+
+<table>
+    <caption>Games I want and their prices</caption>
+    <tr>
+        <td colspan="3">game price</td>
+    </tr>
+    <tr>
+        <th>Game</th>
+        <th>steam price</th>
+        <th>xbox price</th>
+    </tr>
+    <tr>
+        <td>7 days to die</td>
+        <td>$25.00</td>
+        <td>24.99</td>
+    </tr>
+    <tr>
+        <td>Farming Simulator 22</td>
+        <td>$29.99</td>
+        <td>$39.99</td>
+    </tr>
+    <tr>
+        <td>Mortal Combat</td>
+        <td>$49.99</td>
+        <td>$46.00</td>
+    </tr>
+</table>
